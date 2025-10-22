@@ -1,0 +1,48 @@
+# SeqTrack Assignment 3 Requirements
+# Core Dependencies for Training and Evaluation
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision
+
+# Computer Vision
+opencv-python
+jpeg4py
+
+# Data Processing
+numpy
+pandas
+scipy
+pillow
+
+# Configuration & Utilities
+PyYAML
+easydict
+yacs
+
+# Progress & Logging
+tqdm
+colorama
+tb-nightly
+visdom
+
+# Dataset & Evaluation
+pycocotools
+lmdb
+cython
+
+# Model Architecture
+timm>=0.9.0
+
+# Hugging Face Integration
+huggingface-hub
+
+# Visualization & Plotting (for reports)
+matplotlib
+tikzplotlib
+
+# Document Generation (for assignment report)
+python-docx
+
+# VOT Toolkit (optional for testing)
+# git+https://github.com/votchallenge/vot-toolkit-python
